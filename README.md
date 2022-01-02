@@ -1,5 +1,5 @@
 # Enrollment-Management-System
-Enrollment system made easy! This system aims to minimize the effort and stressful time of everyone during enrolment process. This is a user-friendly system, so it is easy for everyone to use the system most especially its functionality. There will be no more manual enrolment transaction that took a lot of time of work because this computerized enrolment system is way better that it can help save time, money and alleviate stress. This system is made of Microsoft Visual Studio 2015 and MS Access Database. 
+Enrollment system made easy! This system aims to minimize the effort and stressful time of everyone during enrolment process. This is a user-friendly system, so it is easy for everyone to use the system most especially its functionality. There will be no more manual enrolment transaction that took a lot of time of work because this computerized enrolment system is way better that it can help save time, money and alleviate stress. This system is made of Microsoft Visual Studio 2015 and MS Access Database.Here i have made that the any number of users can signup and use this Enrollment System by adding Students or teachers details
 These are the following features of the system. 
 Student:
 Adding new Student,
@@ -27,5 +27,3 @@ Manage Users Settings:
 Add Year, 
 Add School Year, 
 Add Subjects. 
-
-Here i have made that the any number of users can signup and use this Enrollment System by adding Students or teachers details.
