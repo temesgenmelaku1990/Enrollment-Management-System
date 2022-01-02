@@ -27,3 +27,5 @@ Manage Users Settings:
 Add Year, 
 Add School Year, 
 Add Subjects. 
+
+Here i have made that the any number of users can signup and use this Enrollment System by adding Students or teachers details.
